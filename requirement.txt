@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+numpy
+twilio
+paho-mqtt
+mysql-connector-python
