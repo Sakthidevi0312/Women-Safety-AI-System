@@ -66,5 +66,3 @@ python women3.py
 
 ---
 
-## Author
-Sakthi Prabha
